@@ -5,9 +5,9 @@ from os import listdir, getcwd
 from os.path import join
 
 # Changes classes to meet your dataset
-classes = ["Mask","No_Mask"]
+classes = ["class_1","class_2"]
 workFolder  = os.getcwd()
-dataFolder  = workFolder+"/dataset"
+dataFolder  = workFolder+"/data"
 trainList   = workFolder+"/train.txt"	# Output the images list for training
 testList    = workFolder+"/test.txt"	# Output the images list for testing
 fileCount   = 0
