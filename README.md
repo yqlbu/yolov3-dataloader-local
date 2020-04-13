@@ -18,6 +18,9 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 - Initiate the VM on Colab, and select the "GPU" one !!! \
   *(You may find the option @ Runtime >> Change runtime type >> Hardware Acclerator >> GPU)*
   
-- 
+- Hit the "Connect" button on the upper right corner, it is located next to the "edit" button. \
+  *(Once it is connected, you will see a green click on the upper right corner, and you will also see the hardware spec)*
+  
+### Demo
 
 ![](demo-screenshots/001.jpg)
