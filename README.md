@@ -12,9 +12,7 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 
 - 
 
-![](demo-screenshots/002.jpg){:class="img-responsive"}
-![](demo-screenshots/002.jpg){:height="50%" width="50%"}
-![](demo-screenshots/002.jpg){:height="100" width="100px"}
+![](demo-screenshots/002.jpg){:height="100px" width="100px"}
 
 ![](demo-screenshots/003.jpg | width=250)
 ![](demo-screenshots/004.jpg | width=250)
