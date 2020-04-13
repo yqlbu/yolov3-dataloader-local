@@ -10,11 +10,8 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 
 ### How to use
 
-- 
+- Clone this repository to your local machine by $ git clone https://github.com/yqlbu/yolov3-dataloader/
+- Login to Colab [here](https://colab.research.google.com/)
+- Upload "yolov3-dataloader.ipynb" to Colab. You may find the open tab @ File >> Open Notebook
 
-![](demo-screenshots/002.jpg){:height="100px" width="100px"}
-
-![](demo-screenshots/003.jpg | width=250)
-![](demo-screenshots/004.jpg | width=250)
-![](demo-screenshots/005.jpg | width=250)
 ![](demo-screenshots/001.jpg)
