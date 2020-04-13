@@ -14,5 +14,7 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
   $ git clone https://github.com/yqlbu/yolov3-dataloader/
 - Login to Colab [here](https://colab.research.google.com/)
 - Upload "yolov3-dataloader.ipynb" to Colab. You may find the open tab @ File >> Open Notebook
+- Initiate the VM on Colab, and select the "GPU" one !!! You may find the option @ Runtime >> Change runtime type >> Hardware Acclerator >> GPU
+- 
 
 ![](demo-screenshots/001.jpg)
