@@ -6,4 +6,8 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 ### Prerequresites
 
 - A valid Google Account to login to Colab
+- Setup Yolov3 Darknet correctly on your local machine. If you are a Nvidia Jetson user, you may find instuctions [here](https://pysource.com/2019/08/29/yolo-v3-install-and-run-yolo-on-nvidia-jetson-nano-with-gpu/)
+
+### How to use
+
 - 
