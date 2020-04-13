@@ -25,3 +25,4 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 
 ![](demo-screenshots/001.jpg)
 ![](demo-screenshots/002.jpg)
+![](demo-screenshots/003.jpg)
