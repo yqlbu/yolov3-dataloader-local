@@ -11,8 +11,8 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 ### How to use
 
 - 
-![](demo-screenshots/002.jpg)
-![](demo-screenshots/003.jpg)
-![](demo-screenshots/004.jpg)
-![](demo-screenshots/005.jpg)
+![](demo-screenshots/002.jpg =250x250)
+![](demo-screenshots/003.jpg =250x250)
+![](demo-screenshots/004.jpg =250x250)
+![](demo-screenshots/005.jpg =250x250)
 ![](demo-screenshots/001.jpg)
