@@ -11,7 +11,7 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 ### How to use
 
 - 
-![](demo-screenshots/002.jpg | width=250)
+![](demo-screenshots/002.jpg){:height="250px" width="250px"}
 ![](demo-screenshots/003.jpg | width=250)
 ![](demo-screenshots/004.jpg | width=250)
 ![](demo-screenshots/005.jpg | width=250)
