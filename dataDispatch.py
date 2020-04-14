@@ -58,9 +58,9 @@ for file in os.listdir(dataFolder):
         imgFileName = os.path.join(dataFolder, filename)
         xmlFileName = os.path.join(dataFolder ,filename + ".xml")
         if(os.path.isfile(xmlFileName)):
-            trainListFile.write(imgFileName+'.jpg'+'\n')
+            trainListFile.write(imgFileName + fileExt + '\n')
             if( fileCount % 5 == 0 ):
-                testListFile.write(imgFileName+'.jpg'+'\n')
+                testListFile.write(imgFileName + fileExt + '\n')
             fileCount += 1
             convert_annotation(imgFileName)
 
