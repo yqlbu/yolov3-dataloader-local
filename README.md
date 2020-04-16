@@ -1,8 +1,8 @@
 ## YOLOv3 Dataloader on Local Machine
  
-This tool is tailored for those who want to train their custom dataset on a Yolov3 Model on their local machines. \
-You may load any dataset into this tool, it will generate a trained weight in the end of the process. \
-You may use this tool on **Google Cloud VM Instances** as well, as long as it is equipped with a **Nvidia GPU**. Ideally using K80, P100 would be good for testing.
+This tool is tailored for those who want to train their custom dataset on a Yolov3 Model on their local machines. You may load any dataset into this tool, it will generate a trained weight in the end of the process.  \
+ \
+Notes: You may use this tool on **Google Cloud VM Instances** as well, as long as it is equipped with a **Nvidia GPU**. Ideally using K80, P100 would be good for testing.
 
 ### Prerequresites
 
@@ -12,15 +12,15 @@ You may use this tool on **Google Cloud VM Instances** as well, as long as it is
 ### How to use
 
 - Clone this repository to your local machine by typing the command below in your terminal \
-  $ git clone https://github.com/yqlbu/yolov3-dataloader-cloud/
-- During the training process, you may also monitor the GPU load with gpustat tool \
-```
-$ pip install gpustat
-$ gpustat
-```
-
-$ pip install gpustat
-$ gpustat
+    ```
+    $ git clone https://github.com/yqlbu/yolov3-dataloader-cloud/
+    ```
+- During the training process, you may also monitor the GPU load with gpustat tool
+    ```
+    $ pip install gpustat
+    $ gpustat
+    ```
+- Follow the instructions step by step in the jupyter notebook, and you will see the results as the demo shown below. **Good luck!**
   
 ### Demo
 
