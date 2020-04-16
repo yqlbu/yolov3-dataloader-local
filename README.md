@@ -11,7 +11,7 @@ Notes: You may use this tool on **Google Cloud VM Instances** as well, as long a
 
 ### How to use
 
-- Clone this repository to your local machine by typing the command below in your terminal \
+- Clone this repository to your local machine by typing the command below in your terminal
     ```
     $ git clone https://github.com/yqlbu/yolov3-dataloader-cloud/
     ```
