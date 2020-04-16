@@ -24,6 +24,6 @@ Notes: You may use this tool on **Google Cloud VM Instances** as well, as long a
   
 ### Demo
 
-![](demo-screenshots/001.jpg)
-![](demo-screenshots/002.jpg)
-![](demo-screenshots/003.jpg)
+![](demo-screenshots/demo001.png)
+![](demo-screenshots/demo002.png)
+![](demo-screenshots/demo003.png)
