@@ -5,7 +5,7 @@ from os import listdir, getcwd
 from os.path import join
 
 # Changes classes to meet your dataset
-classes = ["class_1","class_2"]
+classes = ['milk_tea', 'egg_targ', 'pine_apple_bun']
 workFolder  = os.getcwd()
 dataFolder  = workFolder+"/data"
 trainList   = workFolder+"/train.txt"	# Output the images list for training
