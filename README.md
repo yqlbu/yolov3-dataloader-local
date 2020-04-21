@@ -13,7 +13,7 @@ Notes: You may use this tool on **Google Cloud VM Instances** as well, as long a
 
 - Clone this repository to your local machine by typing the command below in your terminal
     ```
-    $ git clone https://github.com/yqlbu/yolov3-dataloader-cloud/
+    $ git clone https://github.com/yqlbu/yolov3-dataloader-local/
     ```
 - During the training process, you may also monitor the GPU load with gpustat tool
     ```
